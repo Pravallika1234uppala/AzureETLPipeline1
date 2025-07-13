@@ -1,0 +1,9 @@
+{
+	"name": "BasicETLpipeline1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7245ab9d-6a68-4449-b06a-807577a7a04e",
+		"tenantId": "d8999fe4-76af-40b3-b435-1d8977abc08c"
+	}
+}
